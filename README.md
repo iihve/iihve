@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Indira
 - 👀 I’m interested in computer languages
-- 🌱 I’m currently learning Python, C++, and practice all the languages I have learn so far
+- 🌱 I’m currently intersted in learning Python, C++, and practice all the languages I have learn so far
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
